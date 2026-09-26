@@ -16,7 +16,7 @@
       "avatar_url": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
       "hobby": "Du lịch, Đọc sách"
     },
-     {
+    {
       "id": 3,
       "user_name": "Đỗ Lê Đức Anh",
       "email": "ducanh@ute.edu.vn",
@@ -24,11 +24,13 @@
       "avatar_url": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
       "hobby": "Du lịch, game"
     },
-     "id": 4,
-      "user_name": Nguyễn Văn A",
+    {
+      "id": 4,
+      "user_name": "Nguyễn Văn A",
       "email": "nva@abc.edu.vn",
       "desc": "Sinh viên ",
       "avatar_url": "https://cdn.pixabay.com/photo/2017/02/20/18/03/cat-2083492_1280.jpg",
       "hobby": "Sở thích"
+    }
   ]
 }
